@@ -1,4 +1,4 @@
-![logo])(https://github.com/39Pranav/39Pranav/blob/main/linkedin.png)
+![logo](https://github.com/39Pranav/39Pranav/blob/main/linkedin.png)
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A passionate Machine learning engineer from India</h3>
 
